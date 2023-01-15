@@ -1,27 +1,21 @@
 class script(object):
-    START_TXT = """<b>👋 Hemlo {}
+    START_TXT = """<b>👋 Hello {},
 
-My name is ᗪᗩᗴᑎᗴᖇYՏ,
-I can provide movies and series, just add me in your group and make me admin!!
+I Can Provide Movies And Series, Just Add Me In Your Group And Make Me Admin!!
 
-🔅 Powered by: @MovieoCafe
-🎭 Request Group: @MovieoCafe_Request</b>
+🔅 Powered by: @gujjubhaigroup7
+🎭 Request Group: @gujjubhaio</b>
 """
     HELP_TXT = """<b>𝖧𝖾𝗅𝗅𝗈 𝖬𝗋. {} 𝖨𝗍'𝗌 𝖬𝗒 𝖧𝖾𝗅𝗉 𝖬𝗈𝖽𝗎𝗅𝖾</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : Dᴀɴᴇɴᴇʀʏs</b>
+    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʜᴀɴɴᴇʟ : MᴏᴠɪᴇᴏCᴀғᴇ</b>
+<b>✯ Cʜᴀɴɴᴇʟ : @gujjubhaio</b>
 
-<b>✯ Gʀᴏᴜᴘ : MovieoCafe_Request</b>
+<b>✯ Gʀᴏᴜᴘ : @gujjubhaigroup7</b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.1 [Sᴛᴀʙʟᴇ]</b>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-<b>DEV:</b>
-
-- <a href=https://t.me/rithesh_rkrm_17>『ᴘɪʀᴏ』</a>
-- Source - https://github.com/ritheshrkrm/EvaMaria """
+    
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -46,7 +40,7 @@ I can provide movies and series, just add me in your group and make me admin!!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/gujjubhaio)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
