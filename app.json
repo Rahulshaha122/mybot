@@ -1,8 +1,8 @@
 {
-    "name": "ᎯℕUℛᎯᎶ",
-    "description": "Clone Of ᎯℕUℛᎯᎶ & More Features Added",
+    "name": "Aadi",
+    "description": "Clone Of Aadi & More Features Added",
     "stack": "container",
-    "logo": "https://telegra.ph/file/9ee1253e36b37a1665ce2.jpg",
+    "logo": "https://telegra.ph/file/53e68931c60b128eb427e.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/AadiX11/gujjubhaio",
+    "repository": "https://github.com/AadiX11/gujjubhaio",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -76,7 +76,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
