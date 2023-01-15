@@ -112,3 +112,12 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
+
+IMDB_TEMPLATE = """<i><b>📟 Movie Name</b></i> : <i><b><a href={url}>{title}</a></b></i>
+<i><b>🗒️ Release Date</b></i> : <i><b>{release_date}</b></i>
+
+<i><b>⭐ IMDB Rating</b></i> : <i><b><a href={url}/ratings>{rating}/10</a></b></i>
+<i><b>🎞️ Genres</b></i> : <i><b>{genres}</b></i>
+
+<i><b>👩🏻‍💻 Requested By</b></i> : <i><b>{message.from_user.mention}</b></i>
+<i><b>🚀 Group</b></i> : <i><b>{message.chat.title}</b></i>"""
