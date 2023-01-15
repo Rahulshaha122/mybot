@@ -435,8 +435,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/MovieoCafe'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/MovieoCafe_Request')
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/gujjubhaio'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/@gujjubhaigroup7')
         ], [
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
