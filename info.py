@@ -67,6 +67,6 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
     
 #URL SHORTNER
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'mdisklink.link')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'Tnlinks.in')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '3f7af0bd90d4fbf94a7baaaa84a710bbc7c19db6')
 
