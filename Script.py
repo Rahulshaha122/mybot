@@ -113,7 +113,7 @@ ID - <code>{}</code>
 Name - {}
 """
 
-IMDB_TEMPLATE = """<i><b>📟 Movie Name</b></i> : <i><b><a href={url}>{title}</a></b></i>
+IMDB_TEMPLATE_TXT = """<i><b>📟 Movie Name</b></i> : <i><b><a href={url}>{title}</a></b></i>
 <i><b>🗒️ Release Date</b></i> : <i><b>{release_date}</b></i>
 
 <i><b>⭐ IMDB Rating</b></i> : <i><b><a href={url}/ratings>{rating}/10</a></b></i>
