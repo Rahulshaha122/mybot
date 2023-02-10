@@ -121,3 +121,21 @@ Name - {}
 
 <i><b>👩🏻‍💻 Requested By</b></i> : <i><b>{message.from_user.mention}</b></i>
 <i><b>🚀 Group</b></i> : <i><b>{message.chat.title}</b></i>"""
+
+    CUDNT_FND = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ
+
+ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ
+
+ʀᴇᴀᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs ꜰᴏʀ ʙᴇᴛᴛᴇʀ ʀᴇsᴜʟᴛs ☟</b>
+"""
+    SPLMD = """
+ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
+
+ᴇxᴀᴍᴘʟᴇ : Black Adam or Black Adam 2022
+
+sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
+
+ᴇxᴀᴍᴘʟᴇ : Loki S01E01 or Loki S01 E01
+
+🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
+"""
